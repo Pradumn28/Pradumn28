@@ -1,18 +1,17 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Vivek+Chauhan+🚀;SQL+Developer+%7C+Data+Enthusiast;Python+%7C+Pandas+%7C+Plotly;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Pradumn+Chauhan+🚀;Data+Analyst+%7C+SQL+Enthusiast;Python+%7C+Pandas+%7C+Plotly;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
 
 # 👨‍💻 About Me  
 
-Hi, I’m **Vivek Chauhan** 👋  
+Hi, I’m **Pradumn Chauhan** 👋  
 
-- 💻 Passionate about **SQL, Python, Pandas, Plotly, and Data Analytics**  
-- 📊 I love turning raw data into **interactive dashboards & insights**  
-- ⚡ Currently exploring **AI + SQL automation**  
-- 🎯 Goal: Become a **Top SQL Developer & Data Automation Expert**  
+- 💻 Passionate about **SQL, Python, Pandas, Plotly, PowerBi, Excel and Data Analytics**  
+- 📊 I love turning raw data into **interactive dashboards & insights** and Love working on **Advanced SQL**
+- ⚡ Currently exploring **AI + SQL automation**    
 
 ---
 
@@ -31,23 +30,12 @@ Hi, I’m **Vivek Chauhan** 👋
 # 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradumn28&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradumn28&theme=radical" height="180" />
 </p>
 
 ---
 
-# 🌟 Featured Projects  
-
-🔹 [**Stock Market Analysis with Pandas & Plotly**](#)  
-📊 Studied **NSE stock prices** → volatility, cumulative returns, trends  
-📁 Includes **interactive HTML exports** + Jupyter Notebook code  
-
-🔹 [**HR Analytics Dashboard (SQL Project)**](#)  
-📊 Built advanced queries with **views, CTEs, triggers**  
-📈 Created insights into employee retention & hiring  
-
----
 
 # 🎬 Fun Corner  
 
@@ -65,6 +53,6 @@ Hi, I’m **Vivek Chauhan** 👋
 # 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pradumnchauhan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="pradumn2812@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
