@@ -1,75 +1,70 @@
-# 👋 Hi, I'm [Pradumn Chauhan] 
-
-> *Data Analyst | SQL Developer | Problem Solver*
-
----
-
-## 🚀 About Me
-
-I'm passionate about turning raw data into meaningful insights and creating solutions that make a difference. When I'm not coding, you can find me exploring new technologies, contributing to open source, or drinking coffee ☕.
-
-**✨ Fun Facts:**
-- 🔭 I’m currently working on: [Data warehousing]
-- 🌱 I’m currently learning: Business Case Studies
-- 💬 Ask me about: Python, Pandas, Plotly, Data Analysis, SQL, PowerBi, Excel, Java
-- ⚡ Fun fact: I can break production with one line of code... and fix it with two!
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Vivek+Chauhan+🚀;SQL+Developer+%7C+Data+Enthusiast;Python+%7C+Pandas+%7C+Plotly;Welcome+to+my+GitHub+Profile!">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me  
 
-**📊 Data Analysis & Visualization:**
-`Python` `Pandas` `NumPy` `Plotly` `Matplotlib` `Seaborn` `Jupyter`
+Hi, I’m **Vivek Chauhan** 👋  
 
-**💾 Databases:**
-`SQL` `MySQL` `PostgreSQL` `MongoDB`
-
-**🛠️ Tools & Platforms:**
-`Git` `GitHub` `VS Code` `Docker` `AWS` `Google Cloud`
-
-**🎨 Frontend:**
-`HTML` `CSS` `JavaScript` `Streamlit`
+- 💻 Passionate about **SQL, Python, Pandas, Plotly, and Data Analytics**  
+- 📊 I love turning raw data into **interactive dashboards & insights**  
+- ⚡ Currently exploring **AI + SQL automation**  
+- 🎯 Goal: Become a **Top SQL Developer & Data Automation Expert**  
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Tech Stack  
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="Your GitHub streak" /> |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
-| <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" alt="Your activity graph" /> |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📈 GitHub Stats  
 
-### 🔥 [Project 1 Name](https://github.com/your-username/project-1)
-> Short description of what this project does and what technologies it uses.
-> 
-> **Tech:** `Python` `Pandas` `Plotly` `Streamlit`
-
-### 🚀 [Project 2 Name](https://github.com/your-username/project-2) 
-> Another awesome project description.
-> 
-> **Tech:** `Python` `SQL` `Machine Learning`
-
-### 📊 [Project 3 Name](https://github.com/your-username/project-3)
-> Data visualization project with interactive dashboards.
-> 
-> **Tech:** `Plotly` `Dash` `Python`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180" />
+</p>
 
 ---
 
-## 📊 Weekly Development Breakdown
+# 🌟 Featured Projects  
 
-```text
-🐍 Python       🕗 15 hrs  ████████████████░░░░░ 65%
-📊 Data Analysis 🕗 6 hrs   ████████░░░░░░░░░░░░░ 26%
-🌐 Web Dev       🕗 2 hrs   ██░░░░░░░░░░░░░░░░░░░ 9%
+🔹 [**Stock Market Analysis with Pandas & Plotly**](#)  
+📊 Studied **NSE stock prices** → volatility, cumulative returns, trends  
+📁 Includes **interactive HTML exports** + Jupyter Notebook code  
+
+🔹 [**HR Analytics Dashboard (SQL Project)**](#)  
+📊 Built advanced queries with **views, CTEs, triggers**  
+📈 Created insights into employee retention & hiring  
+
+---
+
+# 🎬 Fun Corner  
+
+✨ Random Dev Quote:  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+🕹️ Just for fun:  
+<p align="center">
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200" />
+</p>
+
+---
+
+# 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
