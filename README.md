@@ -9,8 +9,8 @@
 
 Hi, I’m **Pradumn Chauhan** 👋  
 
-- 💻 Passionate about **SQL, Python, Pandas, Plotly, PowerBi, Excel and Data Analytics**  
-- 📊 I love turning raw data into **interactive dashboards & insights** and Love working on **Advanced SQL**
+- 💻 I transform complex data as Analyst at [GlobalLogic](https://www.globallogic.com/)  
+- 📊 I tackle Data at Work and algorithms on [Leetcode](https://leetcode.com/u/pradumnC2812/)
 - ⚡ Currently exploring **AI + SQL automation**    
 
 ---
@@ -19,10 +19,17 @@ Hi, I’m **Pradumn Chauhan** 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
